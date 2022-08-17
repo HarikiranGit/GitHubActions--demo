@@ -4,4 +4,4 @@ then we have written GitHub Actions to create a pipeline, which will automatical
 
 the pipeline will checkout my code, login to my docker account to build the image then push it to my DockerHub account.
 
-once the image is saved in DockerHub we can deploy
+once the image is saved in DockerHub we can deploy to the server
